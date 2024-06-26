@@ -23,6 +23,11 @@ The following tools were used in the construction of the project:
 - [Python](<https://www.python.org/>)
 - [Google AI Studio](<https://aistudio.google.com/>)
 
+Daily update:
+- Day 1 : Color Print
+- Day 2 : Funnel chart
+
+
 
 
 ## 🤝 Creator
