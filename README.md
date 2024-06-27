@@ -26,6 +26,7 @@ The following tools were used in the construction of the project:
 Daily update:
 - Day 1 : Color Print
 - Day 2 : Funnel chart
+- Day3 : Pie Chart
 
 
 
