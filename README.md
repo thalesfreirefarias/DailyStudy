@@ -28,7 +28,7 @@ Daily update:
 - Day 2 : Funnel chart
 - Day 3 : Pie Chart
 - Day 4 : Using a Country name you'll find more about about his country
-- Day 5: Imput a stock and get your Update Price
+- Day 5: Imput a stock name and get your Update Price
 
 
 
